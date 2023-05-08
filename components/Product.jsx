@@ -11,8 +11,8 @@ const Product = () => {
         <Card image="/assets/furniture2.avif" title="furniture 2" />
         <Card image="/assets/furniture3.avif" title="furniture 3" />
         <Card image="/assets/furniture4.avif" title="furniture 4" />
-        <Card image="/assets/furniture5.avif" title="furniture 5" />
-        <Card image="/assets/furniture6.avif" title="furniture 6" />
+        <Card image="/assets/furniture4.avif" title="furniture 5" />
+        <Card image="/assets/furniture4.avif" title="furniture 6" />
       </div>
     </section>
   );
